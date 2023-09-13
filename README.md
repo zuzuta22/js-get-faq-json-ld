@@ -1,0 +1,1 @@
+Embed JSON-LD dynamically at the bottom of the body based on an FAQ list composed of 'dt' and 'dd' elements within an HTML page.
